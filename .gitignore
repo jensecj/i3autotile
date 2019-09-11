@@ -1,0 +1,4 @@
+build/
+dist/
+venv/
+i3autotile.egg-info/
